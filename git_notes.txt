@@ -1,0 +1,60 @@
+man git 
+git init
+git status
+git commit
+git add
+git log
+git diff
+
+  367  cd
+  368  which git
+  369  git --version
+  370  git config --global user.name "Sarah Brady"
+  371  git config --global user.email "sarahbrady84@gmail.com"
+  372  git config -l |  cd| 
+  373  git config -l |  sort
+  374  git config -l |  sort | less
+  375  man git config
+  376  man git-config
+  377  pwd
+  378  ls
+  379  cd uge_workshop/
+  380  ls
+  381  git init
+  382  pwd
+  383  git status
+  384  git add unix_notes.txt 
+  385  status
+  386  git status
+  387  git commit -m "Adding unix notes, first draft"
+  388  git status
+  389  git log
+  390  git log | less
+  391  ls -al
+  392  cat unix_notes.txt 
+  393  ls -al
+  394  subl unix_notes.txt 
+  395  git status
+  396  git status
+  397  subl unix_notes.txt 
+  398  git status
+  399  git add unix_notes.txt 
+  400  git status
+  401  git diff --stagged
+  402  git diff --staged
+  403  git commit -m "add notes about hidden files and directories"
+  404  git log
+  405  git help log
+  406  git-log
+  407  git branch git-notes
+  408  ls
+  409  git checkout git-notes
+  410  ls
+  411  git branch
+  412  git status
+  413  touch git_notes.txt
+  414  ls -l
+  415  cat git_notes.txt 
+  416  subl git_notes.txt 
+  417  subl git_notes.txt 
+  418  history >> git_notes.txt 
