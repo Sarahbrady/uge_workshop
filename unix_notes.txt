@@ -1,13 +1,14 @@
-    1  echo $SHELL
+    1 hidden files and folders begin with a dot! (.)  
+    echo $SHELL
     2  pwd
     3  ls
     4  ls -l
     5  ls /etc
-    6  user@bash: pwd
-    7  echo $SHELL
-    8  pwd
-    9  ls
-   10  ls -l
+    6 
+    7  
+    8  
+    9  
+   10  
    11  ls /etc
    12  ls -l /etc
    13  cd
@@ -150,10 +151,8 @@
   150  pwd
   151  ls
   152  mkdir linuxtutorialwork
-  153  ls
-  154  ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
-  155  ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
-  156  subl
+  153  l
+  notes notes notes
   157  cd ls
   158  ls
   159  ls -l
