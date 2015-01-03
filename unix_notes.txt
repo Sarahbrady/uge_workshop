@@ -1,0 +1,358 @@
+    1  echo $SHELL
+    2  pwd
+    3  ls
+    4  ls -l
+    5  ls /etc
+    6  user@bash: pwd
+    7  echo $SHELL
+    8  pwd
+    9  ls
+   10  ls -l
+   11  ls /etc
+   12  ls -l /etc
+   13  cd
+   14  cd/hTab/<sarahbrady84>Tab
+   15  /etc
+   16  /var/log
+   17  /bin
+   18  /usr/bin
+   19  cd
+   20  ls/
+   21  pwd
+   22  cd ~/etc
+   23  cd ~/var/log
+   24  cd ~/bin
+   25  cd ~/documents
+   26  pwd
+   27  /bin
+   28  pwd
+   29  ~/documents
+   30  pwd
+   31  ls /bin
+   32  ls ~/var/log
+   33  ls /var/log
+   34  pwd
+   35  ls /etc
+   36  ls /usr/bin
+   37  pwd
+   38  ls /zless
+   39  ls -1
+   40  ls documents
+   41  cd
+   42  pwd
+   43  ls documents
+   44  pwd
+   45  ls Documents
+   46  ls /Documents
+   47  file
+   48  ls -a
+   49  pwd
+   50  ls
+   51  ls -1
+   52  ls -l
+   53  ls /etc
+   54  ls -l /etc
+   55  pwd
+   56  ls /Users/sarahbrady84
+   57  ls /Users/sarahbrady84/Documents
+   58  ls Documents
+   59  ls /Users/sarahbrady84/Documents
+   60  ls /Users/sarahbrady84/Downloads
+   61  ~/Downloads
+   62  ./Downloads
+   63  ../../
+   64  ../../Downloads
+   65  pwd
+   66  ls ~/Downloads
+   67  ls ./Downloads
+   68  ls /Users/sarahbrady84
+   69  ls /Users/sarahbrady84/Downloads
+   70  ls ../../
+   71  ls /
+   72  cd
+   73  cd Downloads
+   74  ls
+   75  cd /
+   76  pwd
+   77  ls
+   78  cd ~/downloads
+   79  pwd
+   80  ls
+   81  cd ../../
+   82  pwd
+   83  cd
+   84  pwd
+   85  cd /home/sarahbrady84>
+   86  /etc
+   87  /var/log
+   88  ls /var/log
+   89  ls /etc
+   90  pwd
+   91  /var/log
+   92  ls /var/log
+   93  cd /var/log
+   94  ls
+   95  cd /etc
+   96  ls
+   97  cd
+   98  file
+   99  ls Documents
+  100  ls
+  101  Public
+  102  ls /Public
+  103  pwd
+  104  lS
+  105  ls
+  106  cd creativecloudinstaller
+  107  cd creativecloudinstaller- 2.dmg
+  108  cd CreativeCloudInstaller-2.dmg
+  109  ls -a
+  110  file
+  111  pwd
+  112  file -a
+  113  file
+  114  file /etc
+  115  ls file
+  116  file
+  117  man ls
+  118  man ls
+  119  pwd
+  120  ls -a
+  121  ls --all
+  122  ls -alh
+  123  man ls
+  124  man -k
+  125  recover
+  126  information
+  127  color
+  128  colour
+  129  documents
+  130  download
+  131  downloads
+  132  list
+  133  ls
+  134  man -k
+  135  -a
+  136  man -k <colour>
+  137  man -k <location>
+  138  man -k <search>
+  139  man -k <ls>
+  140  man -k <documents>
+  141  man -k colour
+  142  man -k location
+  143  man 8
+  144  man b
+  145  man B
+  146  pwd
+  147  man ls
+  148  pwd
+  149  mkdir
+  150  pwd
+  151  ls
+  152  mkdir linuxtutorialwork
+  153  ls
+  154  ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+  155  ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+  156  subl
+  157  cd ls
+  158  ls
+  159  ls -l
+  160  applications
+  161  top
+  162  ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+  163  subl
+  164  clear
+  165  whoami
+  166  pwd
+  167  ls
+  168  ls -l
+  169  clear
+  170  cd
+  171  ls -a
+  172  clear
+  173  clear
+  174  pwd
+  175  cd
+  176  cd /
+  177  pwd
+  178  ls
+  179  ls t
+  180  ls -t
+  181  ls -l
+  182  ls -lt
+  183  ls r
+  184  ls -r
+  185  ls -rt
+  186  ls --l
+  187  clear
+  188  man ls
+  189  man man
+  190  clear
+  191  man ls
+  192  ls -m
+  193  pwd
+  194  man ls
+  195  ls -S
+  196  ls R
+  197  ls -R
+  198  pwd
+  199  ls -m
+  200  man ls 
+  201  ls -v
+  202  ls -V
+  203  man ls
+  204  ls -h
+  205  ls -H
+  206  ls -p
+  207  cd ~
+  208  pwd
+  209  ls
+  210  ls -l
+  211  ls -lp
+  212  cd applications
+  213  cd pulic
+  214  cd public
+  215  pwd
+  216  cd home
+  217  cd ..
+  218  pwd
+  219  cd library
+  220  pwd
+  221  pwd
+  222  cd ..
+  223  ls 
+  224  cd public
+  225  ls
+  226  cd drop box
+  227  drop\ box
+  228  cd drop\ box
+  229  ls
+  230  pwd
+  231  cd ..
+  232  cd ..
+  233  cd ..
+  234  pwd
+  235  ls -l
+  236  pwd
+  237  cd ~
+  238  pwd
+  239  cd documents
+  240  ls
+  241  ls -l
+  242  pwd
+  243  cd ..
+  244  pwd
+  245  ls
+  246  cd downloads
+  247  ls
+  248  cd CreativeCloudInstaller-2.dmg
+  249  cd ..
+  250  pwd
+  251  ls
+  252  cd downloads
+  253  ls
+  254  cd sublime\ text
+  255  sublime\ text
+  256  cd ..
+  257  ls
+  258  cd desktop
+  259  ls
+  260  cd projects
+  261  ls
+  262  cd ../..
+  263  pwd
+  264  ~
+  265  cd
+  266  pwd
+  267  ls ~
+  268  pwd
+  269  ls /
+  270  ls -l/
+  271  ls -l
+  272  ls / -l
+  273  ls -l /
+  274  ls -a 
+  275  ls / -a
+  276  ls / -l
+  277  ls .
+  278  ls
+  279  history
+  280  history 5
+  281  histlory | less
+  282  history | less
+  283  history | less
+  284  man less
+  285  man | less
+  286  man | less
+  287  man man | less
+  288  man ls | less
+  289  man ls | less
+  290  pwd
+  291  history > moving_around.txt
+  292  ls
+  293  ls -t
+  294  less moving_around.txt 
+  295  cat my
+  296  cat moving_around.txt 
+  297  cat moving_around.txt | less
+  298  less moving_around.txt 
+  299  rm moving_around.txt 
+  300  ls
+  301  history
+  302  history > my_file.txt
+  303  ls
+  304  history >> my_file.txt 
+  305  ls
+  306  subl moving-around.txt
+  307  cd
+  308  ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+  309  ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+  310  cd desktop
+  311  ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+  312  mkdir 
+  313  mkdir uge_workshop
+  314  ls
+  315  ls -l
+  316  history
+  317  pwd
+  318  ls
+  319  cd ..
+  320  cd ..
+  321  ls
+  322  pwd
+  323  ~
+  324  ls
+  325  cd
+  326  ls
+  327  my_file.txt
+  328  rm my_file.txt 
+  329  ls
+  330  history 
+  331  history > my_history.txt
+  332  ls
+  333  ls -l
+  334  mkdir uge_workshop
+  335  ls
+  336  cd uge_workshop/
+  337  mv my_history unix_notes.txt
+  338  my_history > unix_notes.txt
+  339  my_history.txt > unix_notes.txt 
+  340  ls
+  341  cd
+  342  ls
+  343  my_history.txt > uge_workshop
+  344  cd
+  345  ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+  346  ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+  347  brew doctor
+  348  ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+  349  subl
+  350  cd
+  351  clear
+  352  ls
+  353  cd my_history 
+  354  my_history.txt
+  355  rm -r my_history.txt
+  356  ls
+  357  history
+  358  history > moving_around.txt
